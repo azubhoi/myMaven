@@ -1,1 +1,2 @@
-# myMaven
+# maven-project
+Jenkins Tutorial
